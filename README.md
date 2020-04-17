@@ -17,6 +17,6 @@ If you are web-developer who are looking for the open-source API to build some c
 
 API | Description | Host | Version|Example Client|Contact Person|
 |---|---|---|---|---|---|
-|⛅️ [Europe Air Quality](https://airquality-frost.docker01.ilt-dmz.iosb.fraunhofer.de/v1.1) |  - | Fruanhofer | v1.1| [Air Quality Map](https://wg-brgm.docker01.ilt-dmz.iosb.fraunhofer.de/servlet/is/121/)|kathi@datacove.eu|
+|⛅️ [Europe Air Quality](https://airquality-frost.docker01.ilt-dmz.iosb.fraunhofer.de/v1.1) |  - | Fruanhofer | v1.1| [Air Quality Map](https://wg-brgm.docker01.ilt-dmz.iosb.fraunhofer.de/servlet/is/121/)|-|
 
 👉 [Add your source to the list](https://github.com/JoeThunyathep/OGC_SensorThings_API_Resource/edit/master/README.md)
