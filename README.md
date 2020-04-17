@@ -1,4 +1,4 @@
-# Public SensorThings APIs Resources
+# OGC SensorThings APIs Resources
 
 ## OGS SensorThings API Implementation
 STA-Implementation | Req. | Docker| 
