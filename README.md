@@ -1,6 +1,6 @@
 # OGC SensorThings APIs Resources
 
-This page is created in order to collect the available sources of the OGC SensorThings API. If you are new, you can find document from OGC [here](https://github.com/opengeospatial/sensorthings) or a API document by [SensorUP](http://developers.sensorup.com/docs/) is a very good starting point.
+This page is created in order to collect the available sources of the OGC SensorThings API. If you are new, you can find document from OGC [here](https://github.com/opengeospatial/sensorthings) or this API [document](http://developers.sensorup.com/docs/) by SensorUP is a very good starting point.
 
 ## OGS SensorThings API Implementation
 STA-Implementation | Req. | Docker| 
